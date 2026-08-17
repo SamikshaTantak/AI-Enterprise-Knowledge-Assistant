@@ -1,11 +1,31 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
 # Virtual environments
-.venv
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
 .env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / vector databases
+chroma/
+chroma_db/
+*.db
+
+# LangSmith / API keys
+secrets/
