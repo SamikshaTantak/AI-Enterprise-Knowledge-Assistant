@@ -1,0 +1,14 @@
+langgraph 
+langchain 
+langchain-groq 
+langchain-community 
+langchain-ollama 
+chromadb 
+ragas 
+streamlit 
+python-dotenv 
+pydantic 
+pydantic-settings 
+langsmith
+pytest 
+pytest-asyncio
