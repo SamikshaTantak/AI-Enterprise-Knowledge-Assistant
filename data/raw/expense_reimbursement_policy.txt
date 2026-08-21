@@ -1,0 +1,32 @@
+Expense Reimbursement Policy
+Acme Corporation
+Effective Date: March 1, 2026
+
+1. Purpose
+This policy outlines the process for submitting and approving business-related expense reimbursements for all employees.
+
+2. Eligible Expenses
+The following categories of expenses are eligible for reimbursement when incurred for legitimate business purposes:
+- Client meals and entertainment (up to $75 per person)
+- Travel expenses including flights, trains, and rental cars booked through the approved travel portal
+- Hotel accommodations up to $250 per night in standard cities, or $350 per night in high-cost cities such as New York, San Francisco, and London
+- Conference and training registration fees pre-approved by a manager
+- Local transportation for business purposes, including taxis and ride-shares
+
+3. Non-Reimbursable Expenses
+The company will not reimburse expenses for personal entertainment, alcohol beyond a reasonable client-meal allowance, first-class airfare without prior VP-level approval, or any expense lacking an itemized receipt.
+
+4. Submission Process
+All expense reports must be submitted through the Expensify portal within 30 days of the expense being incurred. Reports submitted after 60 days will not be reimbursed except under exceptional circumstances approved by Finance.
+
+5. Approval Workflow
+Expenses under $500 require single manager approval. Expenses between $500 and $2,000 require manager and department head approval. Expenses exceeding $2,000 require additional Finance team review before reimbursement is processed.
+
+6. Reimbursement Timeline
+Approved expense reports are reimbursed within 10 business days via direct deposit to the employee's payroll account.
+
+7. Corporate Card Usage
+Employees issued a corporate card must reconcile all transactions monthly. Personal use of the corporate card is strictly prohibited and may result in disciplinary action.
+
+8. Contact
+Questions regarding this policy should be directed to finance-support@acmecorp.example.

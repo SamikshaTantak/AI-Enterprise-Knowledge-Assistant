@@ -1,0 +1,27 @@
+Remote Work Policy
+Acme Corporation
+Effective Date: January 1, 2026
+
+1. Purpose
+This policy defines the guidelines for employees working remotely, either full-time or in a hybrid arrangement, to ensure productivity, security, and consistent communication across teams.
+
+2. Eligibility
+Employees who have completed their 90-day probationary period and whose role does not require physical presence on-site are eligible to apply for remote work arrangements. Approval is granted by the employee's direct manager in coordination with HR.
+
+3. Work Hours and Availability
+Remote employees are expected to be available during core business hours, defined as 10:00 AM to 4:00 PM in their local time zone. Employees must remain reachable via Slack and email during these hours unless on approved leave.
+
+4. Equipment and Expenses
+The company provides a laptop and a one-time home office stipend of $500 for eligible remote employees. Employees are responsible for maintaining a stable internet connection of at least 25 Mbps. Equipment issues should be reported to IT Support within 24 hours of discovery.
+
+5. Security Requirements
+All remote employees must use the company VPN when accessing internal systems. Personal devices are not permitted to access confidential company data unless enrolled in the Mobile Device Management (MDM) program. Two-factor authentication is mandatory for all company accounts.
+
+6. Performance Expectations
+Remote work arrangements do not change performance expectations. Employees are evaluated on the same output and quality standards as in-office staff. Managers should conduct weekly one-on-one check-ins with remote reports.
+
+7. Review and Revocation
+Remote work privileges are reviewed quarterly and may be revoked if performance standards are not met or if security policies are violated. Employees will receive a 14-day notice before any revocation takes effect, except in cases of serious security breaches.
+
+8. Contact
+Questions about this policy should be directed to hr@acmecorp.example or the People Operations team via the internal HR portal.

@@ -1,20 +1,5 @@
-"""
-Phase 1 smoke test.
-
-Run this after setting up .env to confirm:
-  1. Settings load correctly from .env
-  2. Groq API is reachable and responds
-  3. Ollama is running locally and the embedding model is pulled
-  4. ChromaDB can create a local persistent client
-
-Usage:
-    uv run python scripts/smoke_test.py
-"""
-
 import sys
-
 from app.config.settings import settings
-
 
 def check_settings() -> bool:
     print("== [1/4] Checking settings load ==")
@@ -102,7 +87,6 @@ def main() -> None:
     else:
         print("SOME CHECKS FAILED — fix the [FAIL] items above before Phase 2")
         sys.exit(1)
-
 
 if __name__ == "__main__":
     main()

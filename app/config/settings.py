@@ -1,10 +1,4 @@
-"""
-Centralized application configuration.
 
-All environment-dependent values are loaded here, once, and validated at
-startup via pydantic-settings. Every other module should import `settings`
-from this file instead of calling os.getenv() directly.
-"""
 
 from functools import lru_cache
 
@@ -29,10 +23,11 @@ class Settings(BaseSettings):
     chunk_overlap: int = 150
     retrieval_top_k: int = 4
 
-    # ---- LangSmith ----
+   # ---- LangSmith Observability ----
     langchain_tracing_v2: bool = False
     langchain_api_key: str | None = None
     langchain_project: str = "enterprise-knowledge-assistant"
+    langchain_endpoint: str = "https://api.smith.langchain.com"
 
     # ---- MCP ----
     mcp_filesystem_root: str = "./data/raw"
